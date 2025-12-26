@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "OCEAN",
+  "base_artist": "B'z",
+  "createdAt": "2025-12-26T05:13:49.146468Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bones in the Ocean",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/01_Bones_in_the_Ocean_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ocean Front Property",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/02_Ocean_Front_Property_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ocean Front Property",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/03_Ocean_Front_Property_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ocean Front Property (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/04_Ocean_Front_Property_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ocean Front Property - Edit",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/05_Ocean_Front_Property_-_Edit_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ocean Front Property (Live)",
+      "artist": "George Strait feat. Kenny Chesney",
+      "has_synced": false,
+      "path": "select/06_Ocean_Front_Property_(Live)_George_Strait_feat._Kenny_Chesney.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ocean Front Property (Live)",
+      "artist": "George Strait",
+      "has_synced": false,
+      "path": "select/07_Ocean_Front_Property_(Live)_George_Strait.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Ocean (feat. Charlie Worsham)",
+      "artist": "Jillian Jacqueline feat. Charlie Worsham",
+      "has_synced": true,
+      "path": "select/08_The_Ocean_(feat._Charlie_Worsham)_Jillian_Jacqueline_feat._Charlie_Worsham.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Ocean",
+      "artist": "Jillian Jacqueline",
+      "has_synced": true,
+      "path": "select/09_The_Ocean_Jillian_Jacqueline.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ocean Skies",
+      "artist": "Ludacris feat. Monica",
+      "has_synced": true,
+      "path": "select/10_Ocean_Skies_Ludacris_feat._Monica.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ocean Skies (feat. Monica)",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/11_Ocean_Skies_(feat._Monica)_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Pacific Ocean",
+      "artist": "Young Dolph",
+      "has_synced": true,
+      "path": "select/12_Pacific_Ocean_Young_Dolph.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "In for the Kill (Danger's Ocean remix)",
+      "artist": "La Roux",
+      "has_synced": false,
+      "path": "select/13_In_for_the_Kill_(Danger's_Ocean_remix)_La_Roux.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "In For The Kill (Danger Ocean Remix)",
+      "artist": "La Roux",
+      "has_synced": false,
+      "path": "select/14_In_For_The_Kill_(Danger_Ocean_Remix)_La_Roux.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ocean",
+      "artist": "Lou Reed",
+      "has_synced": false,
+      "path": "select/15_Ocean_Lou_Reed.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ocean",
+      "artist": "Lush",
+      "has_synced": false,
+      "path": "select/16_Ocean_Lush.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "OCEAN",
+      "artist": "B'z",
+      "has_synced": false,
+      "path": "select/pl_01_OCEAN_B'z.txt"
+    }
+  ]
+}
